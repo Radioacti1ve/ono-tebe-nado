@@ -1,7 +1,7 @@
 /* место для вашего кода */
 .header {
   display: grid;
-  grid-template-columns: 3fr 1fr 2.75fr 0.25fr; 
+  grid-template-columns: 3fr 1fr 2.75fr 0.25fr;
   margin: 100px 24px 93px;
   padding: 0 25px;
   align-items: center;
@@ -12,7 +12,7 @@
 
   & a {
     border: none;
-  } 
+  }
 }
 
 .nav__list {
@@ -133,7 +133,7 @@
 .bet-button {
   text-transform: uppercase;
   min-width: 250px;
-  font-family: inherit;
+  font-family: 'Raleway';
   font-size: 22px;
   color: #fff;
   border: 1px solid currentColor;
