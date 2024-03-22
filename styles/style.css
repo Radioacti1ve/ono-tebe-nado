@@ -2,7 +2,7 @@
 .header {
   display: grid;
   grid-template-columns: 3fr 1fr 2.75fr 0.25fr;
-  margin: 100px 24px 93px;
+  margin: 92px 24px 93px;
   padding: 0 25px;
   align-items: center;
 }
